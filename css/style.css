@@ -1,0 +1,113 @@
+@CHARSET "UTF-8";
+.page1 {
+	padding-left: 80px;
+	padding-top: 20px;
+	color: white;
+	font-weight: bold;
+}
+
+.pagePortrait {
+	padding-top: 110px;
+	padding-bottom: 80px;
+}
+
+.page1Introduction {
+	padding-top: 50px;
+	font-size: 40px;
+	color: white;
+}
+
+.page2skill {
+	padding-top: 30px;
+	font-size: 40px;
+	color: #ff675f;
+	padding-bottom: 50px;
+}
+
+.skillText2 {
+	padding-left: 60px;
+	font-size: 20px;
+	font-family: 楷体 ";
+	font-weight: bold;
+	line-height: 20px;
+	letter-spacing: 0.5px;
+	padding-bottom: 60px;
+	padding-right: 60px;
+	width: 280px;
+}
+
+.page3Project {
+	padding-bottom: 900px;
+}
+
+.workYear {
+	font-size: 17px;
+	color: #fff;
+	background: #ff675f;
+	text-align: center;
+	width: 140px;
+	height: 140px;
+	padding: 50px 0 50px 0;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin-left: 70px;
+}
+
+.arrowpart {
+	float: left;
+	background-color: red;
+	width: 15px;
+	height: 50px;
+	background: url(images/arrow-left.png) no-repeat 0 23px;
+	padding-bottom: 100px;
+}
+
+.exCon {
+	width: auto;
+	background: #f3f3f3;
+	border-bottom: solid 4px #eeeeee;
+	padding: 22px 47px 6px 47px;
+	margin-left: 15px;
+	text-align: left;
+}
+
+.workDetails .rightArea {
+	border-left: solid 1px #eaeaea;
+	padding-bottom: 100px;
+}
+
+.skillBackGround {
+	background-image: url("images/15	.jpg");
+	background-position: left;
+	height: 500px;
+	background-repeat: no-repeat, repeat;
+}
+
+.skillBackGround2 {
+	background-image: url("images/book.jpg");
+	background-position: top;
+	padding-top: 70px;
+	width: 100%;
+	height: 600px;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+.skillBackGround4 {
+	background-image: url("images/book2.jpg");
+	text-align: center;
+	background-position: center;
+	height: 700px;
+	width: 1200px;
+	margin-left: 325px;
+	margin-right: 300px;
+	background-repeat: no-repeat, repeat;
+}
+
+.skillText1 {
+	font-size: 20px;
+	padding-bottom: 40px;
+	padding-left: 60px;
+	padding-top: 20px;
+}

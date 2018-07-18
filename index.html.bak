@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keyword" content="com.kero99.ygc 于公成  kero99 于公成个人网站  com.kero99.top ygc" >
+<!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+<title>于公成个人网站</title>
+<style type="text/css">
+@IMPORT url("css/style.css");
+
+</style>
+<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+
+<!-- Bootstrap css -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<!-- Bootstrap core css -->
+<link
+	href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css"
+	rel="stylesheet">
+<!-- ygc style -->
+<link rel="stylesheet" href="css/style.css" type="text/css"></link>
+</head>
+<body>
+	<header class="navbar navbar-inverse navbar-fixed-top  ">
+
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed"
+				data-toggle="collapse" data-target="#navbar">
+				<span class="sr-only">Toggle navigation</span> <span
+					class="icon-bar"></span> <span class="icon-bar"></span> <span
+					class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="#">MENU</a>
+
+			<div class="container ">
+				<div id="navbar" class="collapse navbar-collapse">
+					<ul class="nav navbar-nav">
+						<li class="active"><a href="#">主页</a>
+						</li>
+						<li><a href="#">个人简介</a>
+						</li>
+						<li><a href="#skill">个人技能</a>
+						</li>
+						<li><a href="#work">工作经验</a>
+						</li>
+						<li><a href="#project">项目展示</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+
+
+	</header>
+
+	<section>
+		<!-- page1 -->
+		<div class="container-fluid">
+			<div class="row" style=" background-color: #00cbcc">
+
+				<div class=" col-xs-12 col-sm-12 col-md-12 col-lg-7  ">
+
+					<div>
+						<h2 class="page1Introduction  text-center">个人简介</h2>
+					</div>
+					<h3 class="page1 col-xs-12 col-sm-12 col-md-12 col-lg-12">于公成</h3>
+					<h4 class="page1 col-xs-12 col-sm-12 col-md-12 col-lg-12">Java
+						开发工程师</h4>
+					<p class="page1 col-xs-12 col-sm-12 col-md-12 col-lg-12"
+						style="font-size:20px;font-family: 楷体">
+						于公成，男，1995年2月13日生于北京市门头沟区，毕业于吉林大学 计算机应用技术专业 本科
+						学士学位，现主要从事BUG修改，后端服务开发工作，支撑移动、web前端的调用，
+						部分参与Web前端开发工作以及数据库设计，已验收的项目有，古今地图时空融合运营平台、随手拍APP、
+						新疆高精度卫星导航定位车辆监管平台、天津泰达风险评估系统等.</p>
+			
+				</div>
+				<!-- 头像图片 -->
+				<div
+					class=" col-xs-12 col-sm-12 col-md-12 col-lg-4 col-md-offset-1 col-lg-offset-1 proPic pagePortrait  ">
+					<img style=" width: 300px" height="300px" src="images/20k.jpg"
+						alt="img" class="img-circle topmar ">
+				</div>
+
+			</div>
+		</div>
+	</section>
+	<!-- page2 -->
+
+	<section>
+		<div class="container-fluid ">
+			<div class="row " style=" background-color: #eee" id="skill">
+				<!-- 个人技能 -->
+				<div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<div>
+						<h2 class="page2skill  text-center">个人技能</h2>
+					</div>
+					<div>
+						<img class="col-xs-12 col-sm-12 col-md-12 col-lg-3"
+							style="margin:0px; padding:0px 20px 80px 20px; float: right;"
+							alt="img" src="images/ygcBook4.jpg">
+
+					</div>
+					<div class="skillText1 col-xs-12 col-sm-12 col-md-12 col-lg-9">
+						<ol>
+							<li>熟悉面向对象思想，熟练掌握Java、JSP、Servlet等技术开发,拥有扎实的编程功底和良好的编码、写注释文档的习惯</li>
+							<li>熟悉Java EE体系结构</li>
+							<li>熟练使用Struts2、Spring、Hibernate、MyBatis、SpringMVC框架技术整合开发Web项目</li>
+							<li>熟练掌握Oracle、MySQL、PL/SQL数据库开发和使用</li>
+							<li>熟练使用MyEclipse、Eclipse、svn等开发工具</li>
+							<li>熟练掌握HTML、DIV+CSS、HTML5、CSS3、JSTL、EL等web技术</li>
+							<li>熟悉AJAX、JavaScript、Jquery、Jquery EasyUi、B	otStrap脚本技术</li>
+							<li>熟悉Socket网络通讯、Http协议、Linux常用命令、多线程</li>							
+							<li>熟悉Nginx+Tomcat+Redis负载均衡、天地图API、Git代码托管</li>
+						</ol>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- page3 -->
+	<section class="exprience" id="exprience"
+		style=" background-color: white">
+		<div class="container-fluid" id="work">
+			<div class="heading">
+				<h2 class="page2skill  text-center">工作经验</h2>
+
+			</div>
+			<div class="row workDetails ">
+				<div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
+					<div class="workYear " style="text-shadow: 5px 5px 5px #737373;">
+						北京中测新图重点实验室<br>
+
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-9 col-md-10 col-lg-8 rightArea">
+					<div class="arrowpart"></div>
+					<div class="exCon ">
+						<div>
+							<h4 style="padding-right:30px;float: left;">工作描述</h4>
+							<h5 style="padding:12px 0px 20px 0px;">研发一部</h5>
+						</div>
+						<p>1.负责研发公司应用软件的模块设计、开发和交付，负责编码，单元测试</p>
+						<p>2.按照功能组件的详细设计，编写技术设计文档，参与新知识的学习和培训</p>
+						<p>3.主要从事后端GIS项目的web端，移动端，服务接口开发,支撑移动端、web前端的调用</p>
+						<p>4.产品的二次开发，BUG修改，部分参与Web前端开发工作, 数据库设计，以及完成上级交办的其他事宜</p>
+					</div>
+				</div>
+			</div>
+			<div class="row workDetails">
+				<div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
+					<div class="workYear " style="text-shadow: 5px 5px 5px #737373;">
+						北京城建勘测设计研究院<br>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-9 col-md-10 col-lg-8 rightArea">
+					<div class="arrowpart"></div>
+					<div class="exCon">
+						<div>
+							<h4 style=" padding-right:30px;float: left;">工作描述</h4>
+							<h5 style="padding:12px 0px 20px 0px;">技术部</h5>
+						</div>
+						<p>1.负责研发公司应用软件的模块设计、开发和交付，负责编码，单元测试。</p>
+						<p>2.按照功能组件的详细设计，编写技术设计文档，参与新知识的学习和培训</p>
+						<p>3.修复程序BUG，产品的二次开发，协助测试人员完成软件系统及模块的测试，完成上级交办的其他事宜</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- page4 -->
+	<section>
+		<div class="container-fluid">
+			<div class="row " style=" background-color: #474d5d" id="project">
+				<h1 class="page2skill  text-center">项目展示</h1>
+			</div>
+			<div class="row ">
+				<div id="carousel-example-generic"
+					class=" carousel slide page3Project " data-ride="carousel"
+					style="height:50px; background-color: #474d5d ">
+					<ol class="carousel-indicators ">
+						<li data-target="#carousel-example-generic" data-slide-to="0"
+							class="active"></li>
+						<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+						<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+						<li data-target="#carousel-example-generic" data-slide-to="3"></li>
+
+					</ol>
+					<div class="carousel-inner ">
+						<div class="item active  ">
+							<img src="images/project/zc1.png">
+						</div>
+						<div class="item ">
+							<img src="images/project/zc2.png">
+						</div>
+						<div class="item">
+							<img src="images/project/zc3.png">
+						</div>
+						<div class="item">
+							<img src="images/project/zc5.png">
+						</div>
+					</div>
+					<a class="left carousel-control  " href="#carousel-example-generic"
+						data-slide="prev"> <span
+						class="glyphicon glyphicon-chevron-left"></span> <span
+						class="sr-only">Previous</span> </a> <a
+						class="right carousel-control " href="#carousel-example-generic "
+						data-slide="next"> <span
+						class="glyphicon glyphicon-chevron-right"></span> <span
+						class="sr-only">Next</span> </a>
+				</div>
+			</div>
+		</div>
+		<section>
+			<div class="container-fluid">
+				<div class="row " style=" background-color: #ffffff ">
+					<div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12  ">
+						<div>
+							<h2 style="text-align: center;">Get In Touch</h2>
+							<p style="text-align: center;">Please feel free if you would
+								like to have a chat.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</section>
+	<section class="contactDetails">
+		<div class="container-fluid">
+			<div class="row" style=" background-color: #474d5d ">
+				<!--contact info start-->
+				<div class="col-xs-12 col-sm12 col-md-12 col-lg-4">
+					<h4 class="page1">联系方式</h4>
+					<p class="page1">
+						<i class="fa fa-map-marker fa-lg"></i>中国北京市门头沟区
+					</p>
+					<p class="page1">
+						<i class="fa fa-mobile fa-lg"></i> +86 13521695439
+					</p>
+					<p class="page1">
+						<i class="fa fa-envelope-o "></i> <a
+							href="mailto:877381442@qq.com">877381442@qq.com</a>
+					</p>
+					<p class="page1">
+						<i class="fa fa-link "></i> <a
+							href="http://blog.csdn.net/qq_17025903">http://blog.csdn.net/qq_17025903</a>
+					</p>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+					<h4 style="text-align: center; ">个人微信公众号</h4>
+					<div style="text-align: center;">
+						<img src="images/ygcGZH1.jpg" style="{width: 80px;height: 80px}">
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- ygc js -->
+	<script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/npm.js"></script>
+	<script type="text/javascript" src="js/jquery-1.8.3.js"></script>
+	<script type="text/javascript">
+	</script>
+</body>
+</html>
